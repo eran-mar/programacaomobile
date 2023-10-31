@@ -1,2 +1,0 @@
-# programacaomobile
-Programação Mobile
